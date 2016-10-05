@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Password</string>
+    <string name="action_settings">Settings</string>
+    <string name="email">Email</string>
+    <string name="error_email">Please FIll In The Email</string>
+    <string name="password">Password</string>
+    <string name="error_password">Please FIll In The Password</string>
+    <string name="login">Login</string>
+</resources>
